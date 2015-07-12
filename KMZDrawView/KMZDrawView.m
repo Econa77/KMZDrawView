@@ -14,7 +14,6 @@
 @property (nonatomic) KMZLine* currentLine;
 @property (nonatomic) KMZLinePenMode penMode;
 @property (nonatomic) NSUInteger penWidth;
-@property (nonatomic) UIColor* penColor;
 @end
 
 @implementation KMZDrawView

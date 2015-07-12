@@ -18,6 +18,7 @@
 @interface KMZDrawView : UIImageView
 
 @property (nonatomic, weak) id<KMZDrawViewDelegate> delegate;
+@property (nonatomic) UIColor* penColor;
 
 - (void)setPenMode:(KMZLinePenMode)penMode;
 - (void)undo;

@@ -10,29 +10,29 @@
 	<string>ExampleProject</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>FD342A11-E865-4C5C-A386-70732056056E</key>
+		<key>FE0E7A4DECE4D3DA02F5A77B6CC5CFC179A5F26A</key>
 		<string>ssh://github.com/kenmaz/KMZDrawView.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>ExampleProject/ExampleProject.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>FD342A11-E865-4C5C-A386-70732056056E</key>
+		<key>FE0E7A4DECE4D3DA02F5A77B6CC5CFC179A5F26A</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>ssh://github.com/kenmaz/KMZDrawView.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>FD342A11-E865-4C5C-A386-70732056056E</string>
+	<string>FE0E7A4DECE4D3DA02F5A77B6CC5CFC179A5F26A</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>FD342A11-E865-4C5C-A386-70732056056E</string>
+			<string>FE0E7A4DECE4D3DA02F5A77B6CC5CFC179A5F26A</string>
 			<key>IDESourceControlWCCName</key>
 			<string>KMZDrawView</string>
 		</dict>
