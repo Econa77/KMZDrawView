@@ -36,7 +36,7 @@
 #pragma mark private functions
 
 - (void)_setupWithFrame:(CGRect)frame {
-    self.backgroundColor = [UIColor whiteColor];
+    //self.backgroundColor = [UIColor whiteColor];
     self.userInteractionEnabled = YES;
 
     self.currentFrame = [[KMZFrame alloc] init];
